@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-Dcy4J8w1Dr))
-- Live Site URL: [Add live site URL here](https://anjali-git-hub.github.io/NFT-Preview-Card/)
+- Solution URL: [See the solution here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-Dcy4J8w1Dr))
+- Live Site URL: [Live site ](https://anjali-git-hub.github.io/NFT-Preview-Card/)
 
 ## My process
 
@@ -37,6 +37,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Anjali-Git-Hub)
-- Twitter - [@yourusername](https://twitter.com/yashika_22_)
+- Frontend Mentor - [Anjali](https://www.frontendmentor.io/profile/Anjali-Git-Hub)
+- Twitter - [yashika_22](https://twitter.com/yashika_22_)
 
